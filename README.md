@@ -1,5 +1,5 @@
-# Jeffrey M. — Aspiring Cybersecurity Professional  
-**Ethical Hacking | Threat Intelligence | Full‑Stack Development**
+# Jeffrey M. — Cybersecurity Professional 
+**Cybersecurity Engineer | SOC Analyst & Ethical Hacking | Exploring AI, Threat Intelligence & Sec Automation | Committed to Digital Defense | Full‑Stack Development**
 
 ---
 
