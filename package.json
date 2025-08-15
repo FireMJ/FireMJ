@@ -1,0 +1,6 @@
+{
+"scripts": {
+  "predeploy": "npm run build && node updateTimestamp.js",
+  "deploy": "gh-pages -d dist -m \"Deploy: Updated portfolio – $(date +'%Y-%m-%d %H:%M %Z')\""
+}
+}
