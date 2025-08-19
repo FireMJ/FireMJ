@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OWASP Juice Shop – Pentest Case Study</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+
+<header class="hero" style="background:linear-gradient(135deg,#3b0a45,#6d0978);color:#fff;padding:3rem 1rem;text-align:center;">
+  <h1>OWASP Juice Shop – Pentest Case Study</h1>
+  <p>🛡 Ethical Hacking · OWASP Top 10 · 4 Critical Findings</p>
+</header>
+
+<main class="content" style="max-width:900px;margin:auto;padding:2rem;line-height:1.6;">
+  <section>
+    <h2>Overview</h2>
+    <p>A simulated e‑commerce platform riddled with vulnerabilities. I executed a full penetration test to uncover exploitable flaws, assess their business impact, and recommend targeted remediations.</p>
+  </section>
+
+  <section>
+    <h2>Methodology</h2>
+    <p>Performed reconnaissance, mapped application structure, ran automated scans with OWASP ZAP, and manually exploited inputs to confirm vulnerabilities. Documented each step with evidence.</p>
+  </section>
+
+  <section>
+    <h2>Key Findings / Outcomes</h2>
+    <table class="findings-table" border="1" cellpadding="8">
+      <tr><th>Finding</th><th>Impact</th><th>Remediation</th></tr>
+      <tr><td>SQL Injection</td><td>Critical – exposed customer data</td><td>Parameterized queries & input sanitization</td></tr>
+      <tr><td>Broken Access Control</td><td>High – privilege escalation possible</td><td>Role‑based access enforcement</td></tr>
+    </table>
+  </section>
+
+  <aside class="skills-used" style="background:#f3f4f6;padding:1rem;border-radius:8px;margin:2rem 0;">
+    <h3>Skills & Tools Used</h3>
+    <ul>
+      <li>OWASP ZAP</li>
+      <li>Burp Suite</li>
+      <li>Manual Exploitation</li>
+    </ul>
+  </aside>
+
+  <section>
+    <h2>Links & Resources</h2>
+    <p>
+  <a href="https://github.com/FireMJ/FireMJ" target="_blank">🔗 View on GitHub</a> | 
+  <a href="../index.html">← Back to Portfolio</a>
+</p>
+
+  </section>
+</main>
+
+</body>
+</html>
