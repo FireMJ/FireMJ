@@ -1,6 +1,9 @@
-# Jeffrey M. — Cybersecurity Professional 
+# Jeffrey M. — Systems Administrator | Cybersecurity Professional 
 **Cybersecurity Engineer | SOC Analyst & Ethical Hacking | Exploring AI, Threat Intelligence & Sec Automation | Committed to Digital Defense | Full‑Stack Development**
 
+![Profile Views](https://komarev.com/ghpvc/?username=FireMJ&color=blue)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FireMJ&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FireMJ&layout=compact&theme=radical)  
 ---
 
 ## 🛡 Featured Cybersecurity Projects
@@ -19,6 +22,35 @@
 - Configured pfSense firewall + Suricata IDS to implement **layered network defense**.  
 - Authored custom IDS rules, tested detection accuracy, and documented incident response workflows.  
 [**View Configuration →**](#)
+
+---
+## 📂 Career Roadmap Repositories
+
+### Stage 1: Core IT & Systems 
+- Skills: Windows/Linux admin, networking, cloud basics  
+- Certs:   
+- Hands‑on Labs:  
+  - [PowerShell-Scripts](https://github.com/FireMJ/PowerShell-Scripts)  
+  - [Bash-Scripts](https://github.com/FireMJ/Bash-Scripts)  
+
+### Stage 2: Systems Administrator 
+- Skills: Identity management, endpoint security, server hardening  
+- Certs:  
+- Projects:  
+  - [ActiveDirectory-Labs](https://github.com/FireMJ/ActiveDirectory-Labs)  
+  - [Documentation](https://github.com/FireMJ/Documentation)  
+
+### Stage 3: Cybersecurity Transition 
+- Skills: SIEM tools, incident response, vulnerability management  
+- Certs: 
+- Projects:  
+  - [Python-Security-Tools](https://github.com/FireMJ/Python-Security-Tools)  
+  - [Cloud-Labs](https://github.com/FireMJ/Cloud-Labs)  
+
+### Stage 4: Advanced Cybersecurity 
+- Skills: Pen testing, red teaming, compliance frameworks  
+- Certs: 
+- Career Path: Analyst → Engineer → Architect → CISO  
 
 ---
 
@@ -49,7 +81,7 @@
 ---
 
 ## 📫 Contact
-**Email:** your.email@example.com  
+**Email:** jeff76mo@yahoo.com  
 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
 **Location:** Cape Town, South Africa — Open to Remote or On‑site Roles
 
