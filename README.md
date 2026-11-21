@@ -80,7 +80,7 @@ These engagements reflect my focus on practical, relevant learning for financial
 ## 📫 Contact
 
 **Email:** jeff76mo@yahoo.com  
-**LinkedIn:** Add your public LinkedIn profile URL here  
+**LinkedIn:** [linkedin.com/in/jeffrey-m-66008966](https://www.linkedin.com/in/jeffrey-m-66008966)  
 **Location:** Cape Town, South Africa · Open to remote or on-site opportunities
 
 ---
